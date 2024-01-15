@@ -6,21 +6,21 @@
 
 The current Human Resources (HR) Analytics Dashboard aims to provide HR professionals with insights into employee data for enhanced understanding and strategic decision-making. The dashboard captures and presents crucial metrics that could significantly contribute to employee engagement, satisfaction, and overall organizational performance. This dashboard gives HR professionals an overview of the company, its employees, and every department.
 
-Since, number of employees = 1470 (1233 employees still in company (Active employees), 237 left the company (inactive employees)), 961 in technology department (828 active, 133 inactive), 446 in sales department (354 active, 92 inactive), 63 in HR department (51 active, 12 inactive)
+Since, the number of employees = 1470 (1233 employees still in the company (Active employees), 237 left the company (inactive employees)), 961 in the technology department (828 active, 133 inactive), 446 in the sales department (354 active, 92 inactive), 63 in HR department (51 active, 12 inactive)
 
-Also the average salary = 112.96 K, average of environment satisfaction = 3.87, average relationship satisfaction = 3.43, average work life balance = 3.41.
+Also the average salary = 112.96 K, average environment satisfaction = 3.87, average relationship satisfaction = 3.43, and average work-life balance = 3.41.
 
 
 # Snapshot of Dashboard (Power BI DESKTOP)
-# Department
-
-![Department](https://github.com/manouraa/HR-Analytics/assets/82479686/4b25eca2-20be-4508-a176-2598bc5e78b0)
-
-
 # Company
 
  
 ![Company](https://github.com/manouraa/HR-Analytics/assets/82479686/66532a09-6a22-452c-8d68-fa6687628013)
+
+# Department
+
+![Department](https://github.com/manouraa/HR-Analytics/assets/82479686/4b25eca2-20be-4508-a176-2598bc5e78b0)
+
 
 
 # Employee
@@ -45,22 +45,22 @@ The following inferences can be drawn from the dashboard;
    
           Number of active employee (Non-Binary) = 105 (8.51 %)
 
-          Number of active employee (Prefare not to say) = 20 (1.62 %)
+          Number of active employees (Prefare not to say) = 20 (1.62 %)
 
 
           ### Ethnicity
 
           Number of active employee (White) = 723 (58.63 %)
 
-          Number of active employee (Black or African) = 176 (14.27 %)
+          Number of active employees (Black or African) = 176 (14.27 %)
    
-          Number of active employee (Mixed or Multiple ethnic groups) = 166 (13.46 %)
+          Number of active employees (Mixed or Multiple ethnic groups) = 166 (13.46 %)
 
-          Number of active employee (Asian or Asian American) = 95 (7.70 %)
+          Number of active employees (Asian or Asian American) = 95 (7.70 %)
 
-          Number of active employee (American Indian or Alaska Native) = 39 (3.16 %)
+          Number of active employees (American Indian or Alaska Native) = 39 (3.16 %)
 
-          Number of active employee (Native Hawaiian ) = 20 (1.62 %)
+          Number of active employees (Native Hawaiian ) = 20 (1.62 %)
 
           Number of active employee (Other ) = 14 (1.13 %)
 
@@ -80,15 +80,15 @@ The following inferences can be drawn from the dashboard;
 
           Number of active employee (White) = 137 (57.80 %)
 
-          Number of active employee (Black or African) = 31 (13.08 %)
+          Number of active employees (Black or African) = 31 (13.08 %)
    
-          Number of active employee (Mixed or Multiple ethnic groups) = 32 (13.50 %)
+          Number of active employees (Mixed or Multiple ethnic groups) = 32 (13.50 %)
 
-          Number of active employee (Asian or Asian American) = 18 (7.59 %)
+          Number of active employees (Asian or Asian American) = 18 (7.59 %)
 
-          Number of active employee (American Indian or Alaska Native) = 11 (4.64 %)
+          Number of active employees (American Indian or Alaska Native) = 11 (4.64 %)
 
-          Number of active employee (Native Hawaiian ) = 6 (2.53 %)
+          Number of active employees (Native Hawaiian ) = 6 (2.53 %)
 
           Number of active employee (Other ) = 2 (0.84 %)
 
@@ -116,7 +116,7 @@ The following inferences can be drawn from the dashboard;
   
   while calculating average, null values have been ignored as they were not relevant. 
   
-  These average will change if different visual filters will be applied.  
+  These averages will change if different visual filters are applied.  
   
   ### [3] employee in each department 
 
@@ -129,7 +129,7 @@ The following inferences can be drawn from the dashboard;
          c) Non-binary = 84 (8.74 %)
          d) Prefer Not to Say = 16 (1.66%)
 
-         thus, maximum employees are Females.
+         thus, the maximum employees are Females.
 
          ### Ethnicity
 
@@ -141,7 +141,7 @@ The following inferences can be drawn from the dashboard;
          f) Native Hawaiian = 17 (1.76 %)
          g) Other = 8 (0.83 %)
 
-         thus, maximum employees are White Ethnicity.
+         thus, the maximum employees are White Ethnicity.
 
          ### Active and Inactive
 
@@ -167,7 +167,7 @@ The following inferences can be drawn from the dashboard;
          f) Native Hawaiian = 7 (1.56 %)
          g) Other = 6 (1.34 %)
 
-         thus, maximum employees are White Ethnicity.
+         thus, the maximum employees are White Ethnicity.
 
          ### Active and Inactive
 
@@ -184,7 +184,7 @@ The following inferences can be drawn from the dashboard;
          c) Non-binary = 5 (7.93 %)
          d) Prefer Not to Say = 1 (1.58 %)
 
-         thus, maximum employees are Females.
+         thus, the maximum employees are Females.
 
          ### Ethnicity
 
@@ -196,7 +196,7 @@ The following inferences can be drawn from the dashboard;
          f) Native Hawaiian = 2 (3.17 %)
          g) Other = 2 (3.17 %)
 
-         thus, maximum employees are White Ethnicity.
+         thus, the maximum employees are White Ethnicity.
 
          ### Active and Inactive
 
@@ -208,11 +208,11 @@ The following inferences can be drawn from the dashboard;
  
  ### Company
  
- 1.1) Average years at company = 4.56
+ 1.1) Average years at the company = 4.56
  
- 1.2) Average turn over rate = 16.12 %
+ 1.2) Average turnover rate = 16.12 %
  
- 1.3) Average Rating of work life balance = 3.41
+ 1.3) Average Rating of work-life balance = 3.41
  
  1.4) Average Rating of Environment Satisfaction = 3.87   
 
@@ -223,106 +223,106 @@ The following inferences can be drawn from the dashboard;
  
  ### Age Group for Active Employees 
  
- 2.1)  101 (8.19 %) employees belong to '0-20' age group.
+ 2.1)  101 (8.19 %) employees belong to the '0-20' age group.
  
- 2.2)  659 (53.44 %) employees belong to '21-29' age group.
+ 2.2)  659 (53.44 %) employees belong to the '21-29' age group.
  
- 2.3)  262 (21.24 %) employees belong to '30-39' age group.
+ 2.3)  262 (21.24 %) employees belong to the '30-39' age group.
  
- 2.4)  204 (16.54 %) employees belong to '40-49' age group.
+ 2.4)  204 (16.54 %) employees belong to the '40-49' age group.
  
- 2.5)  7 (0.56 %) employees belong to '>= 50' age group.
+ 2.5)  7 (0.56 %) employees belong to the '>= 50' age group.
 
-         thus, maximum employees belong to '21-29' age group.
+    thus, maximum employees belong to the '21-29' age group.
 
          
 ### Age Group for inactive employees 
 
- 3.1)  25 (10.54 %) employees belong to '0-20' age group.
+ 3.1)  25 (10.54 %) employees belong to the '0-20' age group.
  
- 3.2)  170 (71.72 %) employees belong to '21-29' age group.
+ 3.2)  170 (71.72 %) employees belong to the '21-29' age group.
  
- 3.3)  27 (11.39 %) employees belong to '30-39' age group.
+ 3.3)  27 (11.39 %) employees belong to the '30-39' age group.
  
- 3.4)  15 (6.32 %) employees belong to '40-49' age group.
+ 3.4)  15 (6.32 %) employees belong to the '40-49' age group.
  
- 3.5)  0 (0.00 %) employees belong to '>= 50' age group.
+ 3.5)  0 (0.00 %) employees belong to the '>= 50' age group.
 
-         thus, maximum employees belong to '21-29' age group.
+    thus, maximum employees belong to the '21-29' age group.
 
 
 ### Type of travel for Active employees
 
-4.1) 208 16.86 % employees have frequent travel.
+4.1) 208 16.86 % of employees have frequent travel.
 
-4.2) 887 71.93 % employees have some travel.
+4.2) 887 71.93 % of employees have some travel.
 
-4.3) 138 11.19 % employees have some travel.
+4.3) 138 11.19 % of employees have some travel.
 
-        thus, more employees have some travel .
+    thus, more employees have some travel.
 
 
 ### Type of travel for inactive employees
 
-5.1) 69 29.11 % employees have frequent travel.
+5.1) 69 29.11 % of employees have frequent travel.
 
-5.2) 156 65.82 % employees have some travel.
+5.2) 156 65.82 % of employees have some travel.
 
-5.3) 12 5.06 % employees have some travel.
+5.3) 12 5.06 % of employees have some travel.
 
-        thus, more employees have some travel .
+    thus, more employees have some travel.
 
 
 ### Active employees have stock option level
 
-6.1) 477 38.68 % employees have 0 stock option level.
+6.1) 477 38.68 % of employees have 0 stock option level.
 
-6.2) 540 43.79 % employees have 1 stock option level.
+6.2) 540 43.79 % of employees have 1 stock option level.
 
-6.3) 146 11.84 % employees have 2 stock option level.
+6.3) 146 11.84 % of employees have 2 stock option-level.
 
-6.4) 70 5.67 % employees have 3 stock option level.
+6.4) 70 5.67 % of employees have 3 stock option-level.
 
-        thus, more employees have 1 stock option level .
+    thus, more employees have 1 stock option level.
 
-### Inctive employees have stock option level
+### Inactive employees have stock option level
 
-7.1) 154 64.97 % employees have 0 stock option level.
+7.1) 154 64.97 % of employees have 0 stock option level.
 
-7.2) 56 23.62 % employees have 1 stock option level.
+7.2) 56 23.62 % of employees have 1 stock option level.
 
-7.3) 12 5.06 % employees have 2 stock option level.
+7.3) 12 5.06 % of employees have 2 stock option-level.
 
-7.4) 15 6.32 % employees have 3 stock option level.
+7.4) 15 6.32 % of employees have 3 stock option-level.
 
-        thus, more employees have 0 stock option level .
-
-
-### Turn over Rate of Employees by Quarter
-
-8.1) 28.65 % employees hired in Quarter 1.
-
-8.2) 22.22 % employees hired in Quarter 2.
-
-8.3) 9.90 % employees hired in Quarter 3.
-
-8.4) 11.03 % employees hired in Quarter 4.
-
-        thus, most Turn over Rate of Employees in Quarter 1.
+    thus, more employees have 0 stock option level.
 
 
-### Turn over Rate of Employees by Department
+### Turnover Rate of Employees by Quarter
 
-9.1) 13.84 % employees hired in Technology Department.
+8.1) 28.65 % of employees hired in Quarter 1.
 
-9.2) 20.63 % employees hired in Sales Department.
+8.2) 22.22 % of employees hired in Quarter 2.
 
-9.3) 19.05 % employees hired in Human Resources.
+8.3) 9.90 % of employees hired in Quarter 3.
 
-        thus, more Turn over Rate of Employees in Sales Department .
+8.4) 11.03 % of employees hired in Quarter 4.
+
+    thus, most Turnover Rate of Employees in Quarter 1.
 
 
-### Turn over Rate of Employees by Gender
+### Turnover Rate of Employees by Department
+
+9.1) 13.84 % of employees hired in the Technology Department.
+
+9.2) 20.63 % of employees hired in Sales Department.
+
+9.3) 19.05 % of employees hired in Human Resources.
+
+    thus, more Turn over Rate of Employees in Sales Department.
+
+
+### Turnover Rate of Employees by Gender
 
 10.1) 15.41 % Female employees.
 
@@ -330,21 +330,21 @@ The following inferences can be drawn from the dashboard;
 
 10.3) 15.32 % Non-Binary employees.
 
-10.4) 0 % Prefer Not to Say employees.
+10.4) 0 % Prefer Not to Say, employees.
 
-        thus, more Turn over Rate in Male employees.
+    thus, more Turnover Rate in Male employees.
 
 
-### Turn over Rate of Employees Age Category
+### Turnover Rate of Employees Age Category
 
-11.1) 19.84 % employees belong to '0-20' age group.
+11.1) 19.84 % of employees belong to the '0-20' age group.
 
-11.2) 20.51 % employees belong to '21-29' age group.
+11.2) 20.51 % of employees belong to the '21-29' age group.
 
-11.3) 9.34 % employees belong to '30-39' age group.
+11.3) 9.34 % of employees belong to the '30-39' age group.
 
-11.4) 6.85 % employees belong to '40-49' age group.
+11.4) 6.85 % of employees belong to the '40-49' age group.
 
-11.5) 0 % employees belong to '>= 50' age group.
+11.5) 0 % of employees belong to the '>= 50' age group.
 
-        thus, more Turn over Rate employees belong to '21-29' age group.
+    thus, more Turnover Rate employees belong to the '21-29' age group.
