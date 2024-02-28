@@ -15,18 +15,21 @@ Also the average salary = 112.96 K, average environment satisfaction = 3.87, ave
 # Company
 
  
-![Company](https://github.com/manouraa/HR-Analytics/assets/82479686/66532a09-6a22-452c-8d68-fa6687628013)
+![1](https://github.com/manouraa/HR-Analytics/assets/82479686/a3ce2676-b5e5-4032-acad-4071923d034f)
+
 
 # Department
 
-![Department](https://github.com/manouraa/HR-Analytics/assets/82479686/4b25eca2-20be-4508-a176-2598bc5e78b0)
+![2](https://github.com/manouraa/HR-Analytics/assets/82479686/1bf73ab3-bbba-4d56-9ae0-e5fbb4fab103)
+
 
 
 
 # Employee
 
  
-![Employee](https://github.com/manouraa/HR-Analytics/assets/82479686/3b60c7c6-2d4e-4831-9221-69739e4c1b1a)
+![3](https://github.com/manouraa/HR-Analytics/assets/82479686/f13946c8-20c3-440b-816b-0718cc95f86e)
+
 
 # Insights
 
